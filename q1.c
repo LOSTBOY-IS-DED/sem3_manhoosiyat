@@ -203,6 +203,7 @@ int main()
       break;
     case 10:
       exit(0);
+      break;
     default:
       printf("Invalid choice!\n");
     }
